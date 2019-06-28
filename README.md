@@ -1,3 +1,16 @@
+# gatsby-hello-world-mdx
+
+Repo for exploring Gatsby and MDX
+
+References:
+
+* npx gatsby new gatsby-hello-world-mdx https://github.com/gatsbyjs/gatsby-starter-hello-world 
+* npm install --save gatsby-plugin-mdx @mdx-js/mdx @mdx-js/react
+* update gatsby-config.js to use gatsby-plugin-mdx
+* [Blogging with Gatsby & MDX](https://reacttraining.com/blog/gatsby-mdx-blog/)
+
+# Gatsby README
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
