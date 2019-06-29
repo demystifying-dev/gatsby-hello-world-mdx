@@ -7,8 +7,7 @@ const BlogPostLayout = ({ children, frontmatter }) => {
       <article>
         <header>
           <h2>{frontmatter.title}</h2>
-          <h5>by {frontmatter.author}</h5>
-          <h6>date: {frontmatter.date}</h6>
+          <h5>by {frontmatter.author} <small>(date: {frontmatter.date})</small></h5>
         </header>
         {children}
       </article>
